@@ -36,7 +36,7 @@ public class Probando3 {
 		Object[] entradas = new Object[1];
 		entradas[0] = entrada;
 		
-		System.out.println("Tiempo tomado para el algoritmo: " +pro.calculateExecutionTime(p, entradas));
+		System.out.println("Tiempo tomado para el algoritmo en nanosegundos: " +pro.calculateExecutionTime(p, entradas));
 
 	}
 

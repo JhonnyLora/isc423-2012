@@ -15,5 +15,10 @@ del mismo. Use la tecnica mas efectiva para este caso.
 
 III. Desarrolle un moddulo capaz de determinar los tiempos de corrida para cualquer
 clase que se use para ordenar valores.
+La solucion esta en el paquete 'isc.jhonnytunes.profiler' y la clase de prueba es
+'prueba.Probando3'. Se utilizo como auxiliar 'prueba.InsertionSort'. El objeto que 
+representa el algoritmo, debe  implementar la interface Profilable y en el metodo
+que se va a override hacer un method forwarding al metodo que se desea hacer el 
+profiling. El tiempo es medido en nanosegundos. !0^(-9).
 
 IV. Josephus problem
