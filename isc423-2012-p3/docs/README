@@ -1,0 +1,19 @@
+###################################################################################
+###################################################################################
+##############################Practica Parcial 3###################################
+###################################################################################
+######################Jhonny M. Lora. Jimenez 20076446#############################
+###################################################################################
+###################################################################################
+
+I. Dada una secuencia de valores, determine las posibles combinaciones para poder
+colorear un mapa con 4 colores, los valores corresponden a las ubicaciones de las 
+ciudades de un mapa.
+
+II. Dado un listado de nombres en un archivo, desarrolle un indice para buscar dentro
+del mismo. Use la tecnica mas efectiva para este caso.
+
+III. Desarrolle un moddulo capaz de determinar los tiempos de corrida para cualquer
+clase que se use para ordenar valores.
+
+IV. Josephus problem
